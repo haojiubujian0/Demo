@@ -1,1 +1,3 @@
 *.txt eol=crlf
+*.c eol=lf
+*.h eol=lf
